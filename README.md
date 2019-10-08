@@ -1,8 +1,7 @@
 # DoomtrooperDB icons
 SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtrooperdb).
 
-## Factions
-
+## [Factions](./factions)
 
 ### Bauhaus
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/bauhaus.svg" height="250px" />](./factions/bauhaus.svg)
