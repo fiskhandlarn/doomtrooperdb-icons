@@ -1,2 +1,2 @@
-# doomtrooperdb-icons
-SVG icons for for DoomtrooperDB deckbuilder
+# DoomtrooperDB icons
+SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtrooperdb).
