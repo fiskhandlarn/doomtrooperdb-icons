@@ -14,3 +14,6 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 
 ### Dark Legion
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/dark_legion.svg" height="250px" />](./factions/dark_legion.svg)
+
+### Crescentia
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/crescentia.svg" height="250px" />](./factions/crescentia.svg)
