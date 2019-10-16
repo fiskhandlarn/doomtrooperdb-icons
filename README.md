@@ -12,6 +12,9 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 ### Cybertronic
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/cybertronic.svg" height="250px" />](./factions/cybertronic.svg)
 
+### Imperial
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/imperial.svg" height="250px" />](./factions/imperial.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/imperial_thicker_shield_outlines.svg" height="250px" />](./factions/imperial_thicker_shield_outlines.svg)
+
 ### General/Cartel
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/general.svg" height="250px" />](./factions/general.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/general_no_ribbon.svg" height="250px" />](./factions/general_no_ribbon.svg)
 
