@@ -29,3 +29,8 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 
 ### Crescentia
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/factions/crescentia.svg" height="250px" />](./factions/crescentia.svg)
+
+## [Types](./types)
+
+### Art
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/art.svg" height="250px" />](./types/art.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/art_circle.svg" height="250px" />](./types/art_circle.svg)
