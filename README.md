@@ -36,7 +36,7 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/art.svg" height="250px" />](./types/art.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/art_circle.svg" height="250px" />](./types/art_circle.svg)
 
 ### Beast
-[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/beast.svg" height="250px" />](./types/beast.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/beast_circle.svg" height="250px" />](./types/beast_inverted.svg)
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/beast.svg" height="250px" />](./types/beast.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/beast_inverted.svg" height="250px" />](./types/beast_inverted.svg)
 
 ### Equipment
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/equipment.svg" height="250px" />](./types/equipment.svg)
