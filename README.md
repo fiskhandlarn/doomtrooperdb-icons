@@ -40,3 +40,6 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 
 ### Equipment
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/equipment.svg" height="250px" />](./types/equipment.svg)
+
+### Fortification
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/fortification_simple.svg" height="250px" />](./types/fortification_simple.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/fortification_simple_inverted.svg" height="250px" />](./types/fortification_simple_inverted.svg)
