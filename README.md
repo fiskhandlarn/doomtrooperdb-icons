@@ -49,3 +49,6 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 
 ### Mission
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/mission.svg" height="250px" />](./types/mission.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/mission_thick_ring.svg" height="250px" />](./types/mission_thick_ring.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/mission_thick_ring_cross.svg" height="250px" />](./types/mission_thick_ring_cross.svg)
+
+### Relic
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/relic.svg" height="250px" />](./types/relic.svg)
