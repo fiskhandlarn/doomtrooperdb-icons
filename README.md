@@ -32,6 +32,9 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 
 ## [Types](./types)
 
+### Alliance
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/alliance.svg" height="250px" />](./types/alliance.svg)
+
 ### Art
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/art.svg" height="250px" />](./types/art.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/art_circle.svg" height="250px" />](./types/art_circle.svg)
 
