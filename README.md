@@ -55,3 +55,6 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 
 ### Relic
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/relic.svg" height="250px" />](./types/relic.svg)
+
+### Special
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/special.svg" height="250px" />](./types/special.svg)
