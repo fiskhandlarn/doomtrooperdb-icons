@@ -41,6 +41,9 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 ### Beast
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/beast.svg" height="250px" />](./types/beast.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/beast_inverted.svg" height="250px" />](./types/beast_inverted.svg)
 
+### Dark symmetry
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/symmetry_simple.svg" height="250px" />](./types/symmetry_simple.svg)
+
 ### Equipment
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/equipment.svg" height="250px" />](./types/equipment.svg)
 
