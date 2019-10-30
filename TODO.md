@@ -2,3 +2,4 @@
 * Add ornaments to fortification icon
 * Increase line widths for fortification icon
 * Add ornaments to relic icon
+* Add vortex to dark symmetry icon
