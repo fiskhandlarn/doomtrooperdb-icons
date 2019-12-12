@@ -66,4 +66,4 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warrior.svg" height="250px" />](./types/warrior.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warrior_outline.svg" height="250px" />](./types/warrior_outline.svg)
 
 ### Warzone
-[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warzone.svg" height="250px" />](./types/warzone.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warzone_outline.svg" height="250px" />](./types/warzone_outline.svg)
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warzone.svg" height="250px" />](./types/warzone.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warzone_small.svg" height="250px" />](./types/warzone_small.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warzone_outline.svg" height="250px" />](./types/warzone_outline.svg)
