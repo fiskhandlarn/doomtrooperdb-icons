@@ -50,7 +50,7 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 ### Fortification
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/fortification_simple.svg" height="250px" />](./types/fortification_simple.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/fortification_simple_inverted.svg" height="250px" />](./types/fortification_simple_inverted.svg)
 
-### Ki
+### Ki power
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/ki.svg" height="250px" />](./types/ki.svg)
 
 ### Mission
