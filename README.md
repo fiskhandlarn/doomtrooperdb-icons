@@ -61,3 +61,7 @@ SVG icons for [DoomtrooperDB deckbuilder](https://github.com/fiskhandlarn/doomtr
 
 ### Special
 [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/special.svg" height="250px" />](./types/special.svg)
+
+### Warrior
+[<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warrior.svg" height="250px" />](./types/warrior.svg) &nbsp; [<img src="https://cdn.rawgit.com/fiskhandlarn/doomtrooperdb-icons/master/types/warrior_outline.svg" height="250px" />](./types/warrior_outline.svg)
+
